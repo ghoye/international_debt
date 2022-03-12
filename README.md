@@ -3,7 +3,7 @@
 In the United States, the National Debt Clock serves as an ongoing reminder of the now multi-trillion-dollar debt that the country bears, but the U.S. is not the only country to owe significant debts. In fact, many countries have taken out debt from the World Bank, and in this project I investigate questions such as how much the total amount of international debt is (in U.S. Dollars), which country owes the most debt, and how much each country owes, on average, across different debt indicators.
 
 The database contains one main table:
-<h3 id="international_debt"><code>categories</code></h3>
+<h3 id="international_debt"><code>international_debt</code></h3>
 <table>
 <thead>
 <tr>
