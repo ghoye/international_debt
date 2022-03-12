@@ -20,7 +20,7 @@ The database contains one main table:
 </tr>
 <tr>
 <td style="text-align:left;"><code>country_code</code></td>
-<td>varchar</td>
+<td>char</td>
 <td>Abbreviation of the country's name</td>
 </tr>
 <td style="text-align:left;"><code>indicator_name</code></td>
@@ -34,7 +34,7 @@ The database contains one main table:
 </tr>
 <tr>
 <td style="text-align:left;"><code>debt</code></td>
-<td>double</td>
+<td>numeric</td>
 <td>Amount owed for the respective type of debt</td>
 </tr>
 <tr>
