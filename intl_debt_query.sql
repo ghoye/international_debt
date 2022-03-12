@@ -1,6 +1,3 @@
--- Connect to database
-postgresql:///international_debt
-
 -- Preview international_debt table
 SELECT * FROM international_debt
 LIMIT 10;
